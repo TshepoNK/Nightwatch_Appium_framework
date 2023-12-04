@@ -15,7 +15,7 @@ const commands = {
       );
     },
     navigate() {
-      return this.navigate('http://192.168.1.25'); // Replace with your actual URL
+      return this.navigate('http://127.0.0.1'); // Replace with your actual URL
     }
   };
 
